@@ -6,9 +6,6 @@ This repo contains the training and evaluation code for the paper,
 
 <p align="center"><img src="https://user-images.githubusercontent.com/68987494/149459170-ff01bbc3-fd97-42c1-bd7b-c661e7b127a8.jpg"></p>
 <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/68987494/149459485-1f555c73-532d-4237-a601-5aa3573f2f82.jpg"></p>
-<br>
-<p align="center"><img src="https://user-images.githubusercontent.com/68987494/149459503-116541c5-8dbb-40bf-83c5-d7292a018d13.JPG"></p>
 
 ## Reference
 
@@ -23,3 +20,7 @@ Please cite the paper below if you use this code in your research:
       year={2022},
       publisher={Elsevier}
     }
+
+<p align="center"><img src="https://user-images.githubusercontent.com/68987494/149459485-1f555c73-532d-4237-a601-5aa3573f2f82.jpg"></p>
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/68987494/149459503-116541c5-8dbb-40bf-83c5-d7292a018d13.JPG"></p>
